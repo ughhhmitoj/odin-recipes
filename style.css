@@ -1,0 +1,29 @@
+h1{
+    font-size: 100px;
+    color: white;
+    background-color: yellow;
+}
+
+li{
+    font-size: 30px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.pagetitle{
+    background-color: blue;
+}
+
+h2{
+    font-size: 70px;
+}
+
+p{
+    font-size: 50px;
+}
+
+img{
+    height: 600px;
+    width: auto;
+    align-self: center;
+}
